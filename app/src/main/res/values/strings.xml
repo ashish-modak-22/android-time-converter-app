@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimeConverterApp</string>
+    <string name="textShow">Please Enter the Seconds</string>
+</resources>
