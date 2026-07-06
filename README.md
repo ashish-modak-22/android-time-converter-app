@@ -11,8 +11,9 @@
 🚀 This is my first Android application built using Kotlin + XML (Views system) in Android Studio.  
 It is a simple beginner-friendly app that converts seconds into days, hours, minutes, and seconds.
 
-</div>
 ---
+</div>
+
 
 # 🧠 What this app does?
 
