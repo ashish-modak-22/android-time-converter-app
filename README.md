@@ -8,11 +8,10 @@
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-</div>
-
 🚀 This is my first Android application built using Kotlin + XML (Views system) in Android Studio.  
 It is a simple beginner-friendly app that converts seconds into days, hours, minutes, and seconds.
 
+</div>
 ---
 
 # 🧠 What this app does?
